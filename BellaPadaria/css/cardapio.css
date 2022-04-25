@@ -1,0 +1,19 @@
+body{
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+}
+.colornav{
+    color:white !important;
+}
+.colornav:hover{
+    color:rgb(222, 185, 132, 1) !important;
+}
+div{
+    color:white;
+}
+.cor{
+    background-color:rgb(37, 27, 18, 0.8);
+}
+.colorfo{
+    background-color: rgba(102, 38, 11, 0.8);
+}

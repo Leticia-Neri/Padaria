@@ -1,0 +1,27 @@
+.colornav{
+    color:white !important;
+    font-weight: none;
+}
+.colornav:hover{
+    color:rgb(222, 185, 132, 1) !important;
+}
+form label, form legend{
+    display: block;
+    margin: 10px 0px;
+}
+
+form input, form select{
+    display: block;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    border: none;
+    border-bottom: 1px solid black;
+}
+form textarea{
+    display: block;
+    padding: 10px;
+    width: 100%;
+    font-size: 16px;
+    border-radius:4px;
+}
